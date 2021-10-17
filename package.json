@@ -1,0 +1,19 @@
+{
+  "name": "townlist-xyz-js",
+  "version": "1.0.0",
+  "description": "Official API for the known townlist.xyz, this module can be used for many stuff. Especially sending stats.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/townlist-xyz/townlist-xyz-js.git"
+  },
+  "author": "desixred",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/townlist-xyz/townlist-xyz-js/issues"
+  },
+  "homepage": "https://github.com/townlist-xyz/townlist-xyz-js#readme"
+}
